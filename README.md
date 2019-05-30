@@ -5,7 +5,7 @@ This application consists of REST CRUD operations like POST, GET, DELETE and PUT
 
 ## Application User Interface
 1. Employee lists
-![Application User Interface](https://github.com/binodstha7/react-native-rest-crud-app/blob/master/src/appimages/Screenshot_2019-05-30-13-01-37-663_com.crudrestapp.png =100x20)
+<img src="https://github.com/binodstha7/react-native-rest-crud-app/blob/master/src/appimages/Screenshot_2019-05-30-13-01-37-663_com.crudrestapp.png" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 2. Add Employee Modal
 ![Application User Interface](https://github.com/binodstha7/react-native-rest-crud-app/blob/master/src/appimages/Screenshot_2019-05-30-13-03-21-961_com.crudrestapp.png)
