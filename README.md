@@ -1,7 +1,10 @@
 # React Native REST CRUD Application
 
 ## What is This
-This application consists of REST CRUD operations like POST, GET, DELETE and PUT operations. list of employee is displayed in first page and application has different modal popup view for add, update and delete operations. After different operation employee list data is updated dynamically in list.
+This application is all about CRUD operations with REST API. list of employee is displayed in first page by fetching data from server and application has different modal popup view for add, update and delete operations. After different operation employee list data is updated dynamically in list.
+
+## REST API
+This Application is using REST dummy api from http://dummy.restapiexample.com/ 
 
 ## Application User Interface
 1. Employee lists
